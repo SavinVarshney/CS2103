@@ -1,0 +1,11 @@
+add My name is savin
+add I study computer science
+display
+clear
+add hello
+add I am savin
+display
+delete 1
+add i love cs
+add soft engineering is fun
+exit

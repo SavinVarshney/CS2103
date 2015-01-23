@@ -1,0 +1,13 @@
+Welcome to TextBuddy. mytextfile.txt is ready for use
+added to mytextfile.txt My name is savin 
+added to mytextfile.txt I study computer science 
+1. My name is savin
+2. I study computer science
+all content deleted from mytextfile.txt
+added to mytextfile.txt hello 
+added to mytextfile.txt I am savin 
+1. hello
+2. I am savin
+deleted from mytextfile.txt hello
+added to mytextfile.txt i love cs 
+added to mytextfile.txt soft engineering is fun 
